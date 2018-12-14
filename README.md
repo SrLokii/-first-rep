@@ -1,2 +1,1 @@
-# -first-rep
-study
+# My first rep GitHub
